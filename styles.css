@@ -98,11 +98,12 @@ font-family: 'Open Sans', sans-serif;
     
 }
 .started_subcontainer h2{
-    font-size: 3.5vw;
+    font-size: 8vw;
     color: hsl(192, 100%, 9%);
 }
 .started_subcontainer p{
     color: rgb(75, 71, 71);
+    text-align: center;
 }
 .grow_subcontainer img{
 
