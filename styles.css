@@ -13,6 +13,7 @@ img{
 h2{
     color: hsl(192, 100%, 9%);
 }
+
 body{
 
 font-family: 'Open Sans', sans-serif;
@@ -264,6 +265,16 @@ footer picture {
     animation-iteration-count: 3
 
 
+}
+.icons i{
+    font-size: 4vw;
+    padding-right:  1vw;
+    color: #fff;
+    transition: .3s ease;
+}
+.icons i:hover{
+    color: teal;
+    transform: scale(.9);
 }
 @keyframes shake{
     0%{
